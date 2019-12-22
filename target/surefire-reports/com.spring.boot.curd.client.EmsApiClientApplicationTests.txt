@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.spring.boot.curd.client.EmsApiClientApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.309 sec - in com.spring.boot.curd.client.EmsApiClientApplicationTests

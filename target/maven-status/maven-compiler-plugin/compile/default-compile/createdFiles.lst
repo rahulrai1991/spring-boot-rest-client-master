@@ -1,0 +1,10 @@
+com/spring/boot/curd/client/util/RuleUtils$2.class
+com/spring/boot/curd/client/pojo/Employee.class
+com/spring/boot/curd/client/pojo/InputRequest.class
+com/spring/boot/curd/client/commons/Constants.class
+com/spring/boot/curd/client/service/EMSClientInvokerService.class
+com/spring/boot/curd/client/EmsApiClientApplication.class
+com/spring/boot/curd/client/util/RuleUtils$1.class
+com/spring/boot/curd/client/pojo/Response.class
+com/spring/boot/curd/client/controller/EMSController.class
+com/spring/boot/curd/client/util/RuleUtils.class
